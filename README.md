@@ -63,7 +63,7 @@ Information Architecture: Breaking down the navigation systems .
 Vedant shelar,
 tejas sanap,
 samarth sabale,
-yash khulpe
+yash khulape
 
 🔗 Conclusion
 -
