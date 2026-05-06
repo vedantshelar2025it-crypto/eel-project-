@@ -60,9 +60,9 @@ Information Architecture: Breaking down the navigation systems .
 
 🔗 Project By
 -
-Vedant shelar
-tejas sanap
-samarth sabale
+Vedant shelar,
+tejas sanap,
+samarth sabale,
 yash khulpe
 
 🔗 Conclusion
